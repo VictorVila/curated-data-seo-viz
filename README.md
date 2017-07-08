@@ -1,8 +1,8 @@
 # Curated list of resources on data, SEO and visualization
 
 ## Algorithms
-* Algorithms site companion [Algorithms 4th ed.]: http://alg4cs.princenton.edu/home
-* TextRank: Bringing Order into Texts. Rada Mihalcea and Paul Tarau: [https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf]
+* Algorithms site companion [Algorithms 4th ed.]: http://algs4.cs.princeton.edu/home/
+* TextRank: Bringing Order into Texts. Rada Mihalcea and Paul Tarau: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
 
 ## Linux GNU
 * The Bash Hackers Wiki: [http://wiki.bash-hackers.org/]
