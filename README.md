@@ -2,10 +2,10 @@
 
 ## Algorithms
 * Algorithms site companion [Algorithms 4th ed.]: http://alg4cs.princenton.edu/home
-* [TextRank: Bringing Order into Texts. Rada Mihalcea and Paul Tarau]: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
+* TextRank: Bringing Order into Texts. Rada Mihalcea and Paul Tarau [https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) 
 
 ## Linux GNU
-* [The Bash Hackers Wiki]: http://wiki.bash-hackers.org/
+* The Bash Hackers Wiki [http://wiki.bash-hackers.org/](http://wiki.bash-hackers.org/)
 
 ## Logs
 * [Server logs after Excel fails]: http://ohgm.co.uk/server-logs-excel-fails-brightonseo-2016/
