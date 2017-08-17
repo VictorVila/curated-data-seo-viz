@@ -30,7 +30,11 @@
 * SEO by the Sea - outside resources: http://www.seobythesea.com/recommended-seo-and-usability-reading/
 
 ## Visualization
+### D3
+* Data Visualization and D3.js : https://www.udacity.com/course/data-visualization-and-d3js--ud507
+* The Hitchhiker’s Guide to d3.js: https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
+### SaaS
 * Google Data Studio: https://www.google.com/analytics/data-studio/
 * Superset data exploration platform: http://airbnb.io/projects/superset/
-* The Hitchhiker’s Guide to d3.js: https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
+
 
