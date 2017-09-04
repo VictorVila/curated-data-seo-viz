@@ -28,9 +28,11 @@
 * Andrej Karpathy, Hacker's guide to Neural Networks : http://karpathy.github.io/neuralnets/
 * Convolutional Neural Networks for Visual Recognition : http://cs231n.github.io/
 * An archive of all O'Reilly data ebooks : http://www.datasciencecentral.com/profiles/blogs/80-free-data-science-books
+* 60+ Free Books on Big Data, Data Science, ... : http://www.kdnuggets.com/2015/09/free-data-science-books.html
 ### iPython Notebooks
 * Learn Data Science : http://learnds.com/
-
+* Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/
+* Andrew Ng's "Machine Learning" in Python https://github.com/jdwittenauer/ipython-notebooks
 
 ## RFC 
 * The canonical link relation: https://tools.ietf.org/html/rfc6596
@@ -46,5 +48,8 @@
 ### SaaS
 * Google Data Studio: https://www.google.com/analytics/data-studio/
 * Superset data exploration platform: http://airbnb.io/projects/superset/
+
+## UX
+* Jobs-to-Be-Done : https://www.nngroup.com/articles/personas-jobs-be-done/
 
 
